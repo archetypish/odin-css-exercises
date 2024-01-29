@@ -1,0 +1,16 @@
+.btn-primary,
+.btn-secondary {
+  font-size: 28px;
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+/* Grouping selectors */
+
+.btn-secondary {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #ffff00;
+}
