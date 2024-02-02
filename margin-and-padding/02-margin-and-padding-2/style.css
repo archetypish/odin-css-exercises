@@ -48,8 +48,15 @@ button {
   text-align: center;
 }
 
+.button-container button {
+  display: block;
+  margin: 0 auto;
+}
+
 /* 1. Add padding to all the items inside the card  */
 /* 2. Add space around the card */
 /* 3. Remove the margin for h1 */
 /* 4. Add margin bottom to div */
 /* 5. Center the contents of button container */
+/* 6. Change display property of button*/
+/* 7. Add necessary padding to button */
