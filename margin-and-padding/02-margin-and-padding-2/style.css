@@ -51,6 +51,7 @@ button {
 .button-container button {
   display: block;
   margin: 0 auto;
+  padding: 4px 12px;
 }
 
 /* 1. Add padding to all the items inside the card  */
