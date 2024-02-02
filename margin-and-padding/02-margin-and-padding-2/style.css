@@ -39,6 +39,12 @@ button {
   margin: 0;
 }
 
+.title,
+.content {
+  margin-bottom: 12px;
+}
+
 /* 1. Add padding to all the items inside the card  */
 /* 2. Add space around the card */
 /* 3. Remove the margin for h1 */
+/* 4. Add margin bottom to div */
