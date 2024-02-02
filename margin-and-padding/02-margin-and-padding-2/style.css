@@ -27,6 +27,7 @@ button {
   border: 1px solid #eee;
 }
 
+/* Layout */
 
 .title,
 .content, 
@@ -34,5 +35,10 @@ button {
   padding: 16px 12px;
 }
 
+.title {
+  margin: 0;
+}
+
 /* 1. Add padding to all the items inside the card  */
 /* 2. Add space around the card */
+/* 3. Remove the margin for h1 */
