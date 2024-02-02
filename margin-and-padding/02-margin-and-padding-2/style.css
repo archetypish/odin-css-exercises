@@ -25,3 +25,13 @@ button {
   background: white;
   border: 1px solid #eee;
 }
+
+
+.title,
+.content, 
+.button-container {
+  padding: 16px 12px;
+}
+
+/* 1. Add padding to all the items inside the card  */
+/* 2. Add space around the card */
