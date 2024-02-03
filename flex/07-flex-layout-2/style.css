@@ -58,3 +58,15 @@ ul {
 .content {
   display: flex;
 }
+
+/* header */
+.header {
+  display: flex;
+  align-items: center;
+  padding-left: 24px;
+}
+
+/* sidebar and card container's split */
+.sidebar {
+  flex: 0 0 200px;
+}
