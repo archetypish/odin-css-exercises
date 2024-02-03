@@ -78,5 +78,11 @@ button {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border: 2px solid red;
+}
+
+/* Center the content */
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
