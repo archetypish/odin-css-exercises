@@ -74,4 +74,5 @@ button.cancel {
 /* Fix the overall layout */
 .modal {
   display: flex;
+  padding: 20px;
 }
