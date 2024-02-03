@@ -54,3 +54,9 @@ ul {
   justify-content: space-between;
   padding: 8px;
 }
+
+/* Use auto margins instead of nesting */
+.notifications {
+  margin-left: auto;
+  margin-right: 12px;
+}
