@@ -83,4 +83,12 @@ ul {
   padding: 12px;
   border-radius: 8px;
   height: 200px;
+  flex: 0 0 200px;
+}
+
+.card-container {
+  padding: 64px;
+  display: flex;
+  gap: 32px;
+  flex-wrap: wrap;
 }
