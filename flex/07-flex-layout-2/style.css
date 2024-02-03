@@ -45,3 +45,9 @@ a {
 ul {
   list-style: none;
 }
+
+/* Remove unnecessary spaces */
+* {
+  margin: 0;
+  padding: 0;
+}
