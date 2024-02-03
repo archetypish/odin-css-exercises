@@ -83,7 +83,7 @@ ul {
   padding: 12px;
   border-radius: 8px;
   height: 200px;
-  flex: 0 0 200px;
+  flex: 0 0 300px;
 }
 
 .card-container {
@@ -91,4 +91,10 @@ ul {
   display: flex;
   gap: 32px;
   flex-wrap: wrap;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
