@@ -51,11 +51,12 @@ button {
 
 /* Layout */
 
-/* header */
+/* header, footer */
 .header,
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .left-links,
@@ -63,3 +64,10 @@ button {
   display: flex;
   gap: 16px;
 }
+
+/* Add background to footer */
+.footer {
+  background-color: #e6e6e6;
+}
+
+/* Add padding all around header and footer*/
