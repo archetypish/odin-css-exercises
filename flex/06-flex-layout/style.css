@@ -48,3 +48,18 @@ ul {
 button {
   padding: 8px 16px;
 }
+
+/* Layout */
+
+/* header */
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-links,
+.right-links {
+  display: flex;
+  gap: 16px;
+}
