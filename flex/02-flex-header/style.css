@@ -31,3 +31,10 @@ a {
   align-items: center;
   justify-content: space-between;
 }
+
+/* Change layout mode of left and right links */
+.left-links ul,
+.right-links ul {
+  display: flex;
+  gap: 8px;
+}
