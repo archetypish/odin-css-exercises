@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 body {
   height: 100vh;
@@ -24,4 +24,22 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+/* Layout */
+/* Change how links look */
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover,
+a:active {
+  color: #e4b362;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
