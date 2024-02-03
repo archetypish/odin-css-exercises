@@ -37,6 +37,7 @@ a {
   align-items: center;
   justify-content: space-between;
   padding: 8px;
+  gap: 8px;
 }
 
 /* Change layout mode of left and right links */
