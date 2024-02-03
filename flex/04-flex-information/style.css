@@ -33,3 +33,17 @@ img {
 .container {
   display: flex;
 }
+
+/* Modify layout and size for each plant */
+.plant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  border: 2px solid red;
+  flex: 0 1 200px;
+}
+
+.plant .text {
+  text-align: center;
+}
