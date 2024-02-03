@@ -71,3 +71,12 @@ button {
 }
 
 /* Add padding all around header and footer*/
+
+/* Push footer all the way down */
+.body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid red;
+}
