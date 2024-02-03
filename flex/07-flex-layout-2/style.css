@@ -77,3 +77,10 @@ ul {
   gap: 12px;
   padding: 12px 24px;
 }
+
+/* change how each card looks */
+.card {
+  padding: 12px;
+  border-radius: 8px;
+  height: 200px;
+}
