@@ -93,3 +93,10 @@ button.cancel {
   font-size: 20px;
   font-weight: bold;
 }
+
+/* content */
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
